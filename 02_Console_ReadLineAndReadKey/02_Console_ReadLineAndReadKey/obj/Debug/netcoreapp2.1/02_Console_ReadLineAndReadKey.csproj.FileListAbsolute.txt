@@ -1,0 +1,10 @@
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\bin\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.deps.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\bin\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.runtimeconfig.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\bin\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.runtimeconfig.dev.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\bin\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.dll
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\bin\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.pdb
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\obj\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\obj\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.AssemblyInfoInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\obj\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.AssemblyInfo.cs
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\obj\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.dll
+C:\Users\bilgi\Desktop\CSharp Tutorial\02_Console_ReadLineAndReadKey\02_Console_ReadLineAndReadKey\obj\Debug\netcoreapp2.1\02_Console_ReadLineAndReadKey.pdb

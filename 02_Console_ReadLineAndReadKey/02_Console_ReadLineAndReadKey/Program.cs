@@ -37,8 +37,6 @@ namespace _02_Console_ReadLineAndReadKey
             Console.WriteLine("DY ve BT: " + DY + " " + BT);
 
 
-
-
         }
     }
 }

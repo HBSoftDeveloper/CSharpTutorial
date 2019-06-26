@@ -1,0 +1,11 @@
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\bin\Debug\netcoreapp2.1\05_Loops.deps.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\bin\Debug\netcoreapp2.1\05_Loops.runtimeconfig.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\bin\Debug\netcoreapp2.1\05_Loops.runtimeconfig.dev.json
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\bin\Debug\netcoreapp2.1\05_Loops.dll
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\bin\Debug\netcoreapp2.1\05_Loops.pdb
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.csprojAssemblyReference.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.AssemblyInfoInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.AssemblyInfo.cs
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.dll
+C:\Users\bilgi\Desktop\CSharp Tutorial\05_Loops\05_Loops\obj\Debug\netcoreapp2.1\05_Loops.pdb

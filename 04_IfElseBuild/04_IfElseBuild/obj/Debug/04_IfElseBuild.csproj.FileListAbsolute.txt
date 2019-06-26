@@ -1,0 +1,10 @@
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\bin\Debug\04_IfElseBuild.exe.config
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\bin\Debug\04_IfElseBuild.exe
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\bin\Debug\04_IfElseBuild.pdb
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\04_IfElseBuild.csprojAssemblyReference.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\_04_IfElseBuild.Form1.resources
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\_04_IfElseBuild.Properties.Resources.resources
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\04_IfElseBuild.csproj.GenerateResource.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\04_IfElseBuild.csproj.CoreCompileInputs.cache
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\04_IfElseBuild.exe
+C:\Users\bilgi\Desktop\CSharp Tutorial\04_IfElseBuild\04_IfElseBuild\obj\Debug\04_IfElseBuild.pdb

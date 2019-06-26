@@ -51,6 +51,31 @@ namespace _03_Değişkenler_1
 
             int BüyükSayi;
 
+            int t = 1;
+
+            t = t + 1;
+
+            t++;
+
+            t--;
+
+            byte l, o;
+
+            l = 222;
+
+            o = 33;
+
+
+            byte r = (byte)(l + o);
+
+            int d1 = 3, d2 = 5;
+
+            Console.WriteLine(d1+d2);
+
+            
+
+           
+
 
             Console.WriteLine();
 

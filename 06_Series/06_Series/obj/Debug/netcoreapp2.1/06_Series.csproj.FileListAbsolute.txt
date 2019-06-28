@@ -1,0 +1,11 @@
+C:\Users\mrt_b\Desktop\06_Series\06_Series\bin\Debug\netcoreapp2.1\06_Series.deps.json
+C:\Users\mrt_b\Desktop\06_Series\06_Series\bin\Debug\netcoreapp2.1\06_Series.runtimeconfig.json
+C:\Users\mrt_b\Desktop\06_Series\06_Series\bin\Debug\netcoreapp2.1\06_Series.runtimeconfig.dev.json
+C:\Users\mrt_b\Desktop\06_Series\06_Series\bin\Debug\netcoreapp2.1\06_Series.dll
+C:\Users\mrt_b\Desktop\06_Series\06_Series\bin\Debug\netcoreapp2.1\06_Series.pdb
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.csprojAssemblyReference.cache
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.AssemblyInfoInputs.cache
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.AssemblyInfo.cs
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.dll
+C:\Users\mrt_b\Desktop\06_Series\06_Series\obj\Debug\netcoreapp2.1\06_Series.pdb
